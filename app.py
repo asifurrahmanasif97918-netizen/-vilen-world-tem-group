@@ -309,4 +309,4 @@ def facebook_automation():
         p_token = request.form.get('page_token')
         auto_msg = request.form.get('auto_message')
         
-        if p_name:
+        if p_name :
